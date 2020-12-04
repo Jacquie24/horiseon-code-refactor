@@ -17,8 +17,10 @@ This is a fairly simple webpage. However, there are three links on the top nav b
 To view this webpage and any others I've designed, check out my GitHub repository at [Jacquie24](https://github.com/Jacquie24?tab=repositories).  
 
 ## Credits
-I didn't have any collaborators, but I did work through a very helpful tutorial on Code Academy.
+First, I worked through a very helpful tutorial on Code Academy to gain an understanding of Semantic HTML.
 [Code Academy Semantic HTML](https://www.codecademy.com/learn/learn-html/modules/learn-semantic-html)
+
+I also received suggestions from three classmates (Lisa Copeland, Spencer Vaughan, and Tony Schwebach) on how to better consolidate the benefits section and was able to incorporate that into my work.
 
 ## License
 This page is using the [MIT](assets/license.txt) license.
