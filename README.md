@@ -14,8 +14,7 @@ This is a fairly simple webpage. However, there are three links on the top nav b
 ![Horiseon webpage](assets/images/Horiseon-website.png)
 
 ## Installation
-To view this webpage and any others I've designed, check out my GitHub repository at [Jacquie24](https://github
-[.com/Jacquie24?tab=repositories).  
+To view this webpage and any others I've designed, check out my GitHub repository at [Jacquie24](https://github.com/Jacquie24?tab=repositories).  
 
 ## Credits
 I didn't have any collaborators, but I did work through a very helpful tutorial on Code Academy.
